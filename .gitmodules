@@ -1,0 +1,3 @@
+[submodule "aprenda-kotlin-com-exemplos-lab"]
+	path = aprenda-kotlin-com-exemplos-lab
+	url = git@github.com:lucianodacunha/aprenda-kotlin-com-exemplos-lab.git
